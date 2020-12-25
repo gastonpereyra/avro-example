@@ -1,0 +1,21 @@
+{
+  "name": "avro-example",
+  "version": "1.0.0",
+  "description": "Example of Generate and Read Avro files",
+  "main": "generate-file.js",
+  "scripts": {
+    "generate-file": "node generate-file",
+    "decode-file": "node decode-file"
+  },
+  "keywords": [
+    "fizzmod",
+    "janis",
+    "avro"
+  ],
+  "author": "Gastón Pereyra",
+  "license": "MIT",
+  "dependencies": {
+    "avro-js": "^1.10.1",
+    "lllog": "^1.1.2"
+  }
+}
