@@ -1,0 +1,6 @@
+[
+    { "name": "Gaston", "isDev": true, "age": 34, "image": null },
+    { "name": "Ryu", "isDev": true, "age": 30, "extra": "Nop" },
+    { "name": "Gachi", "isDev": false, "age": 51, "wowowo": "vamo a calmarno" },
+    { "name": "Mingo", "isDev": false, "age": 43, "chila": "tu no has ganado nada" }
+]
