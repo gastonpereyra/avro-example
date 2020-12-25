@@ -38,7 +38,7 @@ Ejemplo `npm run generate-file perfomance 100000`
 
 ## Conclusión
 
-Todo muy lindo.
+Todo muy lindo, mejor que Protobuf
 
 Esto se realizo usando
 
